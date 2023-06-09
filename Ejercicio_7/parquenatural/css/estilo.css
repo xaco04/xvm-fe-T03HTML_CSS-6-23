@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lucida Sans Unicode';
+}
+h1 {
+    margin-left: 200px;
+    letter-spacing: 7px;
+}
+#tcolor1 {
+    color: #32B944;
+}
+#tcolor2 {
+    color: #EC9A2F;
+}
+div {
+    display: inline-block;
+    margin-left: 20px;
+    border: 1px solid #E5E5E5;
+}
+h2 {
+    border-bottom: 1px solid #4AD05B;
+    margin: 20px;
+    color: #4AD05B;
+}
+h3 {
+    margin-left: 20px;
+    color: #EC9A2F;
+}
+p {
+    margin: 20px;
+}

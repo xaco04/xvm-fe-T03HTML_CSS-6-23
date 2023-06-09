@@ -1,0 +1,14 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: #FF9C9A;
+}
+h1 {
+    color: rgb(51, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: blue;
+}

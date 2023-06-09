@@ -1,0 +1,15 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial;
+    background-color: #FFFCEF;
+}
+h3 {
+    background-color: #FFE898;
+    color: #343739;
+}
+em, strong {
+    color: #4FA2CD;
+}
+p.con-sangria {
+    padding-left: 30px; /* Ajusta el valor según el nivel de sangría deseado */
+}
